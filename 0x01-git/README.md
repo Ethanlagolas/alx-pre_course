@@ -1,15 +1,4 @@
-What is source code management
 
-
-derrick ug
-
-
-
-
-
-What is Git
-What is GitHub
-What is the difference between Git and GitHub
 How to create a repository
 What is a README
 How to write good READMEs
